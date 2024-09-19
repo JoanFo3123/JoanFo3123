@@ -1,5 +1,5 @@
 ## Welcome to my profile
-I'm a student that wants to learn the unknown and enter on learning adventures
+I'm a student that wants to learn the unknown and enter on learning adventures \n
 Nice to meet you!
 
 <!--
