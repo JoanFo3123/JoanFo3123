@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my profile
+# I'm a student that wants to learn the unknown and enter on learning adventures
 
 <!--
 **JoanFo3123/JoanFo3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
